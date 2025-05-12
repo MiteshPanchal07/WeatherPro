@@ -1,9 +1,9 @@
 # WeatherPro - Real-Time Weather Application
 
-![WeatherPro Screenshot](![Screenshot 2025-05-12 at 12-26-01 Weather 2App](https://github.com/user-attachments/assets/6abfd0a9-5128-4a01-9498-d2e40d5cde6c)
-)
-
 WeatherPro is a modern, responsive weather application that provides real-time weather updates for any location worldwide. Built with HTML, CSS, and JavaScript, it offers a beautiful user interface with accurate weather data.
+
+# Preview 
+https://github.com/user-attachments/assets/6abfd0a9-5128-4a01-9498-d2e40d5cde6c
 
 ## Features
 
